@@ -14,5 +14,6 @@
             if(left_container.classList.contains("active")){
                 left_container.classList.remove("active");
                 left_container.classList.add("off");
-            }
+            } 
         });
+        
